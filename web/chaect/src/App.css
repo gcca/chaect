@@ -1,0 +1,9 @@
+#chat-box {
+  width: 300px;
+}
+
+@media(max-width: 600px) {
+  #chat-box {
+    width: 100%;
+  }
+}
